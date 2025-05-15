@@ -17,6 +17,7 @@ Langkah-langkah Menjalankan Simulasi
 1. Unduh dan Install Cisco Packet Tracer jika belum memiliki.
    Link software: https://www.nesabamedia.com/download-cisco-packet-tracer/ 
 2. Clone repositori ini:
+
    git clone https://github.com/irvan878/Simulasi-IoT
 4. Buka file .pkt di Cisco Packet Tracer pada masing-masing folder.
 5. Jalankan masing-masing simulasi dan lihat bagaimana perangkat Smart Home berfungsi.
