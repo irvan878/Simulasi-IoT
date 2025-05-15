@@ -65,6 +65,7 @@ TOPOLOGI
 
 ![image](https://github.com/user-attachments/assets/274c9beb-b104-493f-9b05-1ef2cfcb6a38)
 
+-------------------------------------------------------------------------------------------------------------------------------
 Kesimpulan:
 - Analog lebih sederhana, mengandalkan perangkat fisik yang saling terhubung tanpa pengolahan data atau kontrol jarak jauh.
 - Digital menggunakan logika digital untuk mengatur perangkat, tetapi tetap dalam jaringan lokal tanpa konektivitas ke Internet.
